@@ -1,17 +1,15 @@
 
 /* Your CSS Code here. */
 .holder{
-	display: flex;
-	flex-direction: fullscreen;
-	justify-content:center;
-	align-item:center;
-	position:center;
+	display:flex;
+	flex-direction:fullscreen;
 	width:100%;
+	justify-content:center;
+	align-items:center;
+	position:center;
+	
 }
 .item{
-	border:1px solid red;
-	color:red;
-	padding:10vw;
-	border-radius:50%;
-	background-color:lightgoldenrodyellow
+	border:1px solid black;
+	
 }
